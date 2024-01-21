@@ -2,4 +2,4 @@
 
 folder backend-worker: handles messages that go to the exchange and direct them to the correct queues
 
-folder back-end: the entire application context, and where there is a listener for the queues
+folder backend: the entire application context, and where there is a listener for the queues
